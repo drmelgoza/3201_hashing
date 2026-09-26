@@ -1,0 +1,3 @@
+bits: text1, text2, hash_res, time, atts
+8: ['PYfVeOpzlz', 'FuNhmlPUYb', '11010111', 0.003301858901977539, 3]
+10: ['yiVvxBuPGf', 'onRvjWzhea', '1111100010', 0.0006589889526367188, 23]
