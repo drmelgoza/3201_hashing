@@ -1,8 +1,3 @@
-import csv
-import string
-import time
-import random
-from Crypto.Hash import SHA256
 from bcrypt import checkpw, hashpw
 import nltk
 nltk.download('words')
